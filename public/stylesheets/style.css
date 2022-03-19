@@ -8,20 +8,28 @@ header {
   color: black;
 }
 .main-title {
-  background-color: #d9ead3;
+  text-align: center;
+  background-color: #3a662a;
   border-radius: 0.5rem;
-  box-shadow: 8px 8px 0 2px #a7a7a7;
-  width: 20%;
+  box-shadow: 8px 8px 0 2px #171431;
+  width: 40%;
+  color: rgb(252, 248, 248);
+}
+.bgimage {
+  height: 100vh;
+  background: url("https://media.istockphoto.com/photos/the-man-standing-on-the-mountain-on-the-picturesque-sunrise-picture-id1148587647?b=1&k=20&m=1148587647&s=170667a&w=0&h=sUgq2qFsYG3KT26ivkdM1slude1UdRqbUN0jDfkfE4E=");
+  background-size: cover;
+  position: relative;
 }
 
 .social-icons {
   font-size: 36px;
   cursor: pointer;
 }
-.fa-comment-dots,
-.fa-user-plus,
-.fa-sign,
-.fa-home,
+.fa-comment-dots:hover,
+.fa-user-plus:hover,
+.fa-sign-in-alt:hover,
+.fa-home:hover,
 .fa-github:hover,
 .fa-linkedin:hover {
   color: #008000;
@@ -37,6 +45,6 @@ header {
 }
 /* footer styling */
 #footer {
-  background-color: #808080;
+  background-color: #464242;
   text-align: center;
 }

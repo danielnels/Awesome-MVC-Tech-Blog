@@ -15,7 +15,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark">
     <!-- Container wrapper -->
       <div class="container">
-        <h1 class="main-title">Tech Blog</h1>
+        <h1 class="main-title text-center">Tech Blog</h1>
         <!-- Toggle button -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -27,23 +27,23 @@
           <!-- Left links -->
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="/"><i class="fas fa-home fa-lg"></i><span class="mt-3 small">Home</span></a>
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="/"><i class="fas fa-home fa-lg"></i><span class="mt-4">Home</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="/dashboard"><i class="far fa-comment-dots fa-lg"></i><span class="mt-3 small">Dashboard</span></a>
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="/dashboard"><i class="far fa-comment-dots fa-lg"></i><span class="mt-4">Dashboard</span></a>
             </li>
             <!-- If LoggedIn, Show these Links-->
             {{#if loggedIn}}
             <li class="nav-item">
-              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="#" onclick="logout()"><i class="fas fa-sign-in-alt fa-lg"></i><span class="mt-3 small">Log Out</span></a>
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="#" onclick="logout()"><i class="fas fa-sign-in-alt fa-lg"></i><span class="mt-4">Log Out</span></a>
             </li>
             <!-- Else, Show these links -->
             {{else}}
             <li class="nav-item">
-              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="/login"><i class="fas fa-sign-in-alt fa-lg"></i><span class="mt-3 small">Log In</span></a>
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="/login"><i class="fas fa-sign-in-alt fa-lg"></i><span class="mt-4">Log In</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="/signup"><i class="fas fa-user-plus fa-lg"></i><span class="mt-3 small">Sign Up</span></a>
+              <a class="nav-link d-flex flex-column text-center" aria-current="page" href="/signup"><i class="fas fa-user-plus fa-lg"></i><span class="mt-4">Sign Up</span></a>
             </li>
             {{/if}}
           </ul>
@@ -54,7 +54,9 @@
     </nav>
   </header>
     <main>
+       <section class="bgimage" id="home">
       {{{ body }}}
+      </section>
     </main>
      <footer id="footer">
         <div class="container-fluid">
