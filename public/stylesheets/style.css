@@ -9,17 +9,35 @@ header {
 }
 .main-title {
   text-align: center;
-  background-color: #3a662a;
-  border-radius: 0.5rem;
-  box-shadow: 8px 8px 0 2px #171431;
+  background-color: #070707;
+  border-radius: 1rem;
+  box-shadow: 8px 8px 0 2px #cbc8e9;
   width: 40%;
   color: rgb(252, 248, 248);
 }
 .bgimage {
   height: 100vh;
-  background: url("https://media.istockphoto.com/photos/the-man-standing-on-the-mountain-on-the-picturesque-sunrise-picture-id1148587647?b=1&k=20&m=1148587647&s=170667a&w=0&h=sUgq2qFsYG3KT26ivkdM1slude1UdRqbUN0jDfkfE4E=");
+  background: url("http://www2.deloitte.com/content/dam/Deloitte/global/Images/promo_images/gx-ccg-information-technology-risk-700x700.gif");
   background-size: cover;
   position: relative;
+  opacity: 1;
+}
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgb(252, 250, 250);
+}
+label {
+  color: rgb(240, 247, 247);
 }
 
 .social-icons {
