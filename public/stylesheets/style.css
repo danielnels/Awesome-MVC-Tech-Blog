@@ -1,0 +1,42 @@
+body {
+  background-color: #d9ead3;
+}
+header {
+  padding: 20px;
+  text-align: center;
+  background: #231010;
+  color: black;
+}
+.main-title {
+  background-color: #d9ead3;
+  border-radius: 0.5rem;
+  box-shadow: 8px 8px 0 2px #a7a7a7;
+  width: 20%;
+}
+
+.social-icons {
+  font-size: 36px;
+  cursor: pointer;
+}
+.fa-comment-dots,
+.fa-user-plus,
+.fa-sign,
+.fa-home,
+.fa-github:hover,
+.fa-linkedin:hover {
+  color: #008000;
+}
+.fab {
+  color: #4900f5;
+}
+.far {
+  color: #4900f5;
+}
+.fas {
+  color: #4900f5;
+}
+/* footer styling */
+#footer {
+  background-color: #808080;
+  text-align: center;
+}
