@@ -1,4 +1,5 @@
 const router = require('express').Router();
+// eslint-disable-next-line no-unused-vars
 const sequelize = require('../config/connection');
 const { Post, User, Comment} = require('../models');
 const withAuth = require('../utils/auth');
@@ -67,7 +68,7 @@ router.get('/edit/:id', withAuth, (req, res) => {
     .then(dbPostData => {
       if (dbPostData) {
         const post = dbPostData.get({ plain: true });
-        
+
         res.render('edit-post', {
           post,
           loggedIn: true

@@ -39,6 +39,9 @@ h6 {
 label {
   color: rgb(240, 247, 247);
 }
+a {
+  color: #f6f8fa;
+}
 
 .social-icons {
   font-size: 36px;
