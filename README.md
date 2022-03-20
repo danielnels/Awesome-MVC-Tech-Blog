@@ -80,7 +80,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 To use this application:
 
-* Clone the GitHub repository at: https://github.com/danielnels/-Awesome-Note-Taker-Express.js.git
+* Clone the GitHub repository at: https://github.com/danielnels/Awesome-MVC-Tech-Blog.git
 Download and install node.js.
 
 * To automatically install dependencies, run "npm i" 
@@ -128,7 +128,8 @@ https://user-images.githubusercontent.com/94213022/159143962-c0f5e666-2b66-4625-
 ![demo-5](https://user-images.githubusercontent.com/94213022/159144033-7f0e8c3e-0f40-4815-b4de-0dba2849cf75.png)
 
 ## Deployed Application Links
-
+Github: https://github.com/danielnels/Awesome-MVC-Tech-Blog.git
+Heroku:
 
 ## Questions
   Please e-mail me if you have any questions about this App
