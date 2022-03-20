@@ -81,7 +81,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 To use this application:
 
-* Clone the GitHub repository at: https://github.com/danielnels/Awesome-MVC-Tech-Blog.git
+* Clone the GitHub repository at: https://github.com/danielnels/-Awesome-Note-Taker-Express.js.git
 Download and install node.js.
 
 * To automatically install dependencies, run "npm i" 
@@ -119,18 +119,14 @@ Run the app
     
 ## Walkthrough Demo
 
-https://user-images.githubusercontent.com/94213022/159143962-c0f5e666-2b66-4625-ae78-78a926656586.mp4
+
 
 ## App images
-![demo-image](https://user-images.githubusercontent.com/94213022/159143991-6ddf2957-143f-4781-957d-7c94f01dec8b.png)
-![demo-2](https://user-images.githubusercontent.com/94213022/159144025-37b607b2-7638-4dd7-82e8-43357a7332b3.png)
-![demo-3](https://user-images.githubusercontent.com/94213022/159144028-f08ad106-eee4-40b0-a44c-851c219ce0bc.png)
-![demo-4](https://user-images.githubusercontent.com/94213022/159144029-8f6a6955-4bd6-4323-afb5-31ff7901c7f4.png)
-![demo-5](https://user-images.githubusercontent.com/94213022/159144033-7f0e8c3e-0f40-4815-b4de-0dba2849cf75.png)
+
+
 
 ## Deployed Application Links
-Github: https://github.com/danielnels/Awesome-MVC-Tech-Blog.git
-Heroku:
+
 
 ## Questions
   Please e-mail me if you have any questions about this App
