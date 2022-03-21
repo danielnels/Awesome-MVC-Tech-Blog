@@ -131,7 +131,8 @@ https://user-images.githubusercontent.com/94213022/159381391-5ca51fb5-fe02-47c4-
 
 ## Deployed Application Links
 Heroku: https://awesome-tech-blog.herokuapp.com/
-Github :
+
+Github :https://github.com/danielnels/Awesome-MVC-Tech-Blog.git
 
 ## Questions
   Please e-mail me if you have any questions about this App
