@@ -95,7 +95,7 @@ Database Connection
 
 Run the app
 
-* npm start [To start the server] and navigate to http://localhost:3001/ in your browser OR Use the Heroku link in this repository
+* npm start [To start the server] and navigate to http://localhost:3001/ in your browser OR Use the Heroku link https://awesome-tech-blog.herokuapp.com/ in this repository
 
 ## Technologies Used
 
@@ -119,14 +119,19 @@ Run the app
     
 ## Walkthrough Demo
 
-
+https://user-images.githubusercontent.com/94213022/159381391-5ca51fb5-fe02-47c4-8c37-a8c9f2f62cb8.mp4
 
 ## App images
-
+![demo-image](https://user-images.githubusercontent.com/94213022/159381408-705cf928-8560-495c-b1f8-2dcc0d97ed64.png)
+![demo-5](https://user-images.githubusercontent.com/94213022/159381425-64dc3d0f-542c-4ef8-8e28-1275a42b01d5.png)
+![demo-4](https://user-images.githubusercontent.com/94213022/159381435-ff336db6-cd7b-4dd8-b867-fb8bfc0f3f06.png)
+![demo-3](https://user-images.githubusercontent.com/94213022/159381437-1e939e29-4930-4e84-87b3-b5bf23bb556e.png)
+![demo-2](https://user-images.githubusercontent.com/94213022/159381444-99c29a68-64c9-4635-9c6d-65d30a02f565.png)
 
 
 ## Deployed Application Links
-
+Heroku: https://awesome-tech-blog.herokuapp.com/
+Github :
 
 ## Questions
   Please e-mail me if you have any questions about this App
